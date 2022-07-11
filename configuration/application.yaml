@@ -1,0 +1,5 @@
+spring:
+  kafka:
+    streams:
+      bootstrap-servers: "localhost: 9091"
+      application-id: "pp_task"
